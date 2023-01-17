@@ -1,0 +1,8 @@
+IBM Cloud Essentials
+About this Course
+This course introduces you to the IBM Cloud. 
+You will learn about the many offerings and services on IBM Cloud that make it the most open and secure public cloud for developers and enterprises. 
+The course begins with an introduction to the IBM Cloud platform which covers topics such as data center locations and configuring identity and access management. 
+You will discover the various Infrastructure-as-a-Service (IaaS) options available on IBM Cloud. 
+Next, you will learn about the deployment options on IBM Cloud; this includes topics such as Containers, Kubernetes, and OpenShift.
+You will also become familiar with IBM Cloud services such as Databases, Artificial Intelligence and Watson, Blockchain, Internet of Things, and many others. 
